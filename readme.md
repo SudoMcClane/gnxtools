@@ -9,7 +9,7 @@ GNXTools - Glens Nmap XML Tools - are several python scripts which parse and mer
 ### GNXParse (Nmap XML Parser)
 List ips, ports, subnets and generate nmap 'rescan' commands.
 
-###GNXMerge (Nmap XML Merger)
+### GNXMerge (Nmap XML Merger)
 Merge multiple nmap xml files.
 
 ---
